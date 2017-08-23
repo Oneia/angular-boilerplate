@@ -1,6 +1,11 @@
-# TravelHelper
+# Boilerplate ANGULAR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
+
+## About
+The project is included base elements for angular app
+There are not specified any css preprocessor if you want to add one - see here https://stackoverflow.com/questions/42681748/how-do-i-add-less-to-my-angular-2-cli-build
+There are not any components even app, you should generate it with cli
 
 ## Development server
 
